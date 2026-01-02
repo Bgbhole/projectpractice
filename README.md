@@ -1,5 +1,4 @@
-# projectpractice
-# mechconnect
+
 # MechConnect – Vehicle Service Booking Platform
 
 MechConnect is a full-stack web application designed to connect customers with nearby mechanics for vehicle servicing.  
