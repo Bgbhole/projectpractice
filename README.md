@@ -82,7 +82,7 @@ Java Full Stack Developer
 📍 Pune, Maharashtra  
 
 GitHub: https://github.com/Bgbhole/projectpractice.git
-LinkedIn: https://linkedin.com/in/shubham-wani-91074a213
+LinkedIn: 
 ---
 ## 📄 License
 
