@@ -81,7 +81,7 @@ This repository acts as a **central hub** for the complete MechConnect project, 
 Java Full Stack Developer  
 📍 Pune, Maharashtra  
 
-GitHub: https://github.com/sw210920/mechconnect.git  
+GitHub: https://github.com/Bgbhole/projectpractice.git
 LinkedIn: https://linkedin.com/in/shubham-wani-91074a213
 ---
 ## 📄 License
