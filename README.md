@@ -43,10 +43,10 @@ This repository acts as a **central hub** for the complete MechConnect project, 
 ## 📂 Repositories
 
 - **Backend (Spring Boot)**  
-  👉 https://github.com/sw210920/mechconnect-backend.git
+  👉 https://github.com/Bgbhole/mechconnect-backend.git
 
 - **Frontend (HTML, CSS, JavaScript)**  
-  👉 https://github.com/sw210920/mechconnect-frontend.git
+  👉 https://github.com/Bgbhole/mechconnect-frontend.git
 
 ---
 
